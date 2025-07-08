@@ -6,11 +6,11 @@
 // Configuration - Update these values
 const CONFIG = {
     // Step 1: Get your API token here: https://brightdata.com/cp/setting/users
-    apiToken: process.env.BRIGHT_DATA_API_TOKEN || 'YOUR_API_KEY', 
+    apiToken: process.env.BRIGHT_DATA_API_TOKEN || 'fc87eb2e-995d-4ce9-81c6-85927406a043', 
     // Step 2: Get your zone here: https://brightdata.com/cp/zones 
     zone: process.env.BRIGHT_DATA_ZONE || 'web_unlocker1', 
     // Step 3: Set your target URL
-    targetUrl: 'https://geo.brdtest.com/welcome.txt'
+    targetUrl: 'https://www.ontario.ca/page/get-driving-record'
     // Step 4: Run `node index.js` commend on terminal
   };
   
